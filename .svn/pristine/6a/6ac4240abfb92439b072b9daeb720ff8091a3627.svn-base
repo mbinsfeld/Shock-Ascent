@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: d3b98c4572f87e94fbc0934efecd9bc6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zutto_door_asset_wooden_door_lock
+    21300002: zutto_door_asset_wooden_door_lock_0
+    21300004: zutto_door_asset_wooden_door_lock_1
+    21300006: zutto_door_asset_wooden_door_lock_2
+    21300008: zutto_door_asset_wooden_door_lock_3
+    21300010: zutto_door_asset_wooden_door_lock_4
+    21300012: zutto_door_asset_wooden_door_lock_5
+    21300014: zutto_door_asset_wooden_door_lock_6
+    21300016: zutto_door_asset_wooden_door_lock_7
+    21300018: zutto_door_asset_wooden_door_lock_8
+    21300020: zutto_door_asset_wooden_door_lock_9
+    21300022: zutto_door_asset_wooden_door_lock_10
+    21300024: zutto_door_asset_wooden_door_lock_11
+    21300026: zutto_door_asset_wooden_door_lock_12
+    21300028: zutto_door_asset_wooden_door_lock_13
+    21300030: zutto_door_asset_wooden_door_lock_14
+    21300032: zutto_door_asset_wooden_door_lock_15
+    21300034: zutto_door_asset_wooden_door_lock_16
+    21300036: zutto_door_asset_wooden_door_lock_17
+    21300038: zutto_door_asset_wooden_door_lock_18
+    21300040: zutto_door_asset_wooden_door_lock_19
+    21300042: zutto_door_asset_wooden_door_lock_20
+    21300044: zutto_door_asset_wooden_door_lock_21
+    21300046: zutto_door_asset_wooden_door_lock_22
+    21300048: zutto_door_asset_wooden_door_lock_23
+    21300050: zutto_door_asset_wooden_door_lock_24
+    21300052: zutto_door_asset_wooden_door_lock_25
+    21300054: zutto_door_asset_wooden_door_lock_26
+    21300056: zutto_door_asset_wooden_door_lock_27
+    21300058: zutto_door_asset_wooden_door_lock_28
+    21300060: zutto_door_asset_wooden_door_lock_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zutto_door_asset_wooden_door_lock_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 858
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 858
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 858
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_4
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 858
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 692
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 692
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 692
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_9
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 692
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 526
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 526
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 526
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_14
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 526
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 360
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 360
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 360
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_19
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 360
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 194
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_22
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 194
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 194
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_24
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 194
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 28
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 28
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zutto_door_asset_wooden_door_lock_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 28
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
